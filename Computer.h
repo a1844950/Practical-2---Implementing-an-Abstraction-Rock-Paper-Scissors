@@ -4,7 +4,7 @@
 
 class Computer {
 public:
-    Computer( ); // constructor
+    Computer( );
     char makeMove( );
 };
 
